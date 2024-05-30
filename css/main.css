@@ -43,12 +43,12 @@ main {
 }
 
 main h1 {
-    color: black;
+    color: white;
     font-size: 50px;
 }
 
 main p {
-    color: black;
+    color: white;
     font-size: large;
     width: 800px;
 }
@@ -56,4 +56,51 @@ main p {
 .guitar1 {
     width: 550px;
     float: right;
+}
+
+.strat {
+    width: 550px;
+    float: right;
+    height: 800px;
+    margin-left: 600px;
+}
+
+.lespaul {
+    width: 550px;
+    float: right;
+    height: 800px;
+    margin-left: 600px;
+}
+
+.SG {
+    width: 550px;
+    float: right;
+    height: 800px;
+}
+
+.ochko {
+    float: left;
+    margin-top: -1500px;
+    color: white;
+}
+
+.pizdec1 {
+    float: left;
+    margin-top: -1200px;
+    font-size: 50px;
+    color: white;
+} 
+
+.pizdec2 {
+    float: left;
+    margin-top: -500px;
+    font-size: 50px;
+    color: white;
+}
+
+.pizdec3 {
+    float: left;
+    margin-top: 300px;
+    font-size: 50px;
+    color: white;
 }
